@@ -1,0 +1,9 @@
+Order_ID,Customer,Restaurant,City,Amount,Delivery_Time,Rating
+101,Alex,Pizza Hut,Chennai,500,30,5
+102,Bob,Dominos,Mumbai,350,25,4
+103,Charlie,KFC,Chennai,400,35,4
+104,David,Pizza Hut,Bangalore,600,40,5
+105,Eva,Burger King,Mumbai,450,20,3
+106,Frank,KFC,Chennai,300,28,4
+107,Grace,Dominos,Bangalore,550,32,5
+108,Helen,Pizza Hut,Mumbai,700,45,5
